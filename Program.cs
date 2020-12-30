@@ -1,61 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using System.Net.Sockets;
-using System.Net;
+using System.Windows.Forms;
 
-namespace Server
+namespace Server_Client_v3
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            IPAddress ip = Dns.GetHostEntry("localhost").AddressList[0];//Get localIP
-            TcpListener server = new TcpListener(ip, 8080);
-            TcpClient client = default(TcpClient);
-
-            try
-            {
-                server.Start();
-                Console.WriteLine("Server is being Started...");
-
-
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.ToString());
-            }
-
-
-            while(true)
-            {
-                client = server.AcceptTcpClient();
-
-                byte[] recieveBuffer = new byte[100];
-                NetworkStream stream = client.GetStream();
-
-                stream.Read(recieveBuffer, 0, recieveBuffer.Length);
-
-
-                StringBuilder msg = new StringBuilder();
-
-                foreach(byte b in recieveBuffer)
-                {
-                    if (b.Equals(00))
-                    {
-                        break;
-                    }else
-                    {
-                        msg.Append(Convert.ToChar(b).ToString());
-                    }
-                }
-
-                Console.WriteLine(msg.ToString());
-
-
-            }
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Configuration());
         }
     }
 }
