@@ -1,0 +1,6 @@
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server\Server\bin\Debug\Server.exe.config
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server\Server\bin\Debug\Server.exe
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server\Server\bin\Debug\Server.pdb
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server\Server\obj\Debug\Server.exe
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server\Server\obj\Debug\Server.pdb
