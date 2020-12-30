@@ -1,0 +1,9 @@
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\bin\Debug\Server-Client_app.exe.config
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\bin\Debug\Server-Client_app.exe
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\bin\Debug\Server-Client_app.pdb
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\obj\Debug\Server-Client_app.csprojResolveAssemblyReference.cache
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\obj\Debug\Server_Client_app.Form1.resources
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\obj\Debug\Server_Client_app.Properties.Resources.resources
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\obj\Debug\Server-Client_app.csproj.GenerateResource.Cache
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\obj\Debug\Server-Client_app.exe
+D:\Users\mR.m0d\Documents\Visual Studio 2015\Projects\3RD YEAR\perito activities\Server-Client_app\Server-Client_app\obj\Debug\Server-Client_app.pdb
